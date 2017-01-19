@@ -4,5 +4,4 @@
 
 
 `Screenshots` 
-##NetEaseNews Player
-![VideoPlayer_3](https://github.com/weinixuehao/MagicCube/tree/master/demo/img/ezgif.com-gif-maker.gif)
+![alt tag](https://github.com/weinixuehao/MagicCube/tree/master/demo/img/ezgif.com-gif-maker.gif)

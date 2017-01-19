@@ -1,4 +1,4 @@
-# MagicCube
+#MagicCube(Android)
 能够上下左右滑动切换页面的四方体
 #feature
 1、基于自定义viewpager，所以不需要考虑内存问题，能够任意多的页面，无限循环滑动。
